@@ -1,0 +1,13 @@
+{
+    "background": "#001B26",
+    "font": 
+    {
+        "face": "JetBrainsMonoNL Nerd Font"
+    },
+    "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+    "hidden": false,
+    "name": "PowerShell",
+    "opacity": 50,
+    "source": "Windows.Terminal.PowershellCore",
+    "useAcrylic": true
+}
